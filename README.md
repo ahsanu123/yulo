@@ -22,3 +22,6 @@
 just learning python
 
 ## ⚓ Reference 
+
+- [python project structure](https://docs.python-guide.org/writing/structure/)
+- [writing test in python](https://docs.python-guide.org/writing/tests/)
